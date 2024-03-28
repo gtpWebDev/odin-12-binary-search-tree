@@ -1,0 +1,12 @@
+{
+  "name": "odin-12-binary-search-tree",
+  "version": "1.0.0",
+  "description": "Odin project from the javascript module to construct balanced binary search trees",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glen Pearson",
+  "license": "ISC"
+}
